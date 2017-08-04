@@ -47,3 +47,30 @@ padding: 5px;
  
 html[xmlns] .clearfix { display: block; }
 * html .clearfix { height: 1%; }
+ button {
+    background-color: "lightsteelblue";
+    border: none;
+    color: "black";
+    padding: 12px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    float: center;
+    
+}
+
+    h2 {text-align: side;}
+    body {background-color: Linen }
+    h1 {text-align: center; border: 2.5px dotted silver;font-family: "Arial", serif; color: LightCoral;}
+    p{font-family: "Arial";}
+   #titles {
+  text-align: left;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  color: #696969;
+  font-size: 30px;
+}
+ 
