@@ -62,10 +62,7 @@ html[xmlns] .clearfix { display: block; }
     
 }
 
-    h2 {text-align: side;}
-    body {background-color: Linen }
-    h1 {text-align: center; border: 2.5px dotted silver;font-family: "Arial", serif; color: LightCoral;}
-    p{font-family: "Arial";}
+
    #titles {
   text-align: left;
   margin-top: 15px;
